@@ -1,0 +1,83 @@
+body{
+    margin: 50px 550px;
+    text-align: left;
+    
+}
+img{
+    
+   
+    
+}
+
+.part{
+    background-color: #e6e205b4;
+    margin-top: 30px;
+    color: cadetblue;
+    margin-bottom: 30px;
+    height: 30px;
+    padding-top: 25px;
+    
+    
+    
+    
+    
+    
+    
+}
+.sally{
+    margin: 1px;
+    color: dimgray;
+    text-align: center;
+}
+.feat{
+    color: orange;
+    margin: 0%;
+    padding-top: 40px;
+
+    }
+.link{
+    margin: 0%;
+    color:aqua;
+
+
+    
+}
+
+.ingre{ 
+    margin: 0%;
+    padding-bottom: 5%;
+    padding-top: 5%;
+    
+}
+.focaccia{
+    
+    margin: 0%;
+    
+}
+.lista{
+    padding-top: 1%; 
+    margin-bottom: 5%;
+    gap: 10px;
+    display: flex; flex-direction: column;
+    text-align: left;
+    padding-left: 20px;
+
+}
+.for{
+   margin: 0%;
+}
+.lista2{
+    padding-top: 1%;
+    margin-bottom: 5%;
+    gap: 10px;
+    display: flex; flex-direction: column;
+    text-align: left;
+    padding-left: 20px;
+    
+}
+.lorem{
+    padding-left: 20px;
+}
+.make{
+    padding-left: 15px;
+}
